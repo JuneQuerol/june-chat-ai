@@ -1,8 +1,8 @@
 /**
- * LLM Chat Application Template
+ * June AI Assistant
  *
- * A simple chat application using Cloudflare Workers AI.
- * This template demonstrates how to implement an LLM-powered chat interface with
+ * A simple AI-powered chat application.
+ * This demonstrates how to implement an LLM-powered chat interface with
  * streaming responses using Server-Sent Events (SSE).
  *
  * @license MIT
